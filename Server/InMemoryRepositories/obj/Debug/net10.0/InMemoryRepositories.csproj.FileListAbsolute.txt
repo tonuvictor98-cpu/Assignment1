@@ -1,0 +1,36 @@
+C:\Users\me085\RiderProjects\Assignment1\Server\InMemoryRepositories\bin\Debug\net10.0\InMemoryRepositories.deps.json
+C:\Users\me085\RiderProjects\Assignment1\Server\InMemoryRepositories\bin\Debug\net10.0\InMemoryRepositories.dll
+C:\Users\me085\RiderProjects\Assignment1\Server\InMemoryRepositories\bin\Debug\net10.0\InMemoryRepositories.pdb
+C:\Users\me085\RiderProjects\Assignment1\Server\InMemoryRepositories\bin\Debug\net10.0\Entities.dll
+C:\Users\me085\RiderProjects\Assignment1\Server\InMemoryRepositories\bin\Debug\net10.0\RepositoryContracts.dll
+C:\Users\me085\RiderProjects\Assignment1\Server\InMemoryRepositories\bin\Debug\net10.0\Entities.pdb
+C:\Users\me085\RiderProjects\Assignment1\Server\InMemoryRepositories\bin\Debug\net10.0\RepositoryContracts.pdb
+C:\Users\me085\RiderProjects\Assignment1\Server\InMemoryRepositories\obj\Debug\net10.0\InMemoryRepositories.csproj.AssemblyReference.cache
+C:\Users\me085\RiderProjects\Assignment1\Server\InMemoryRepositories\obj\Debug\net10.0\InMemoryRepositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\me085\RiderProjects\Assignment1\Server\InMemoryRepositories\obj\Debug\net10.0\InMemoryRepositories.AssemblyInfoInputs.cache
+C:\Users\me085\RiderProjects\Assignment1\Server\InMemoryRepositories\obj\Debug\net10.0\InMemoryRepositories.AssemblyInfo.cs
+C:\Users\me085\RiderProjects\Assignment1\Server\InMemoryRepositories\obj\Debug\net10.0\InMemoryRepositories.csproj.CoreCompileInputs.cache
+C:\Users\me085\RiderProjects\Assignment1\Server\InMemoryRepositories\obj\Debug\net10.0\InMemoryRepositories.sourcelink.json
+C:\Users\me085\RiderProjects\Assignment1\Server\InMemoryRepositories\obj\Debug\net10.0\InMemory.C4D1EAE1.Up2Date
+C:\Users\me085\RiderProjects\Assignment1\Server\InMemoryRepositories\obj\Debug\net10.0\InMemoryRepositories.dll
+C:\Users\me085\RiderProjects\Assignment1\Server\InMemoryRepositories\obj\Debug\net10.0\refint\InMemoryRepositories.dll
+C:\Users\me085\RiderProjects\Assignment1\Server\InMemoryRepositories\obj\Debug\net10.0\InMemoryRepositories.pdb
+C:\Users\me085\RiderProjects\Assignment1\Server\InMemoryRepositories\obj\Debug\net10.0\ref\InMemoryRepositories.dll
+C:\Users\me085\OneDrive\Desktop\yuh uh\Assignment1\Assignment1\Server\InMemoryRepositories\bin\Debug\net10.0\InMemoryRepositories.deps.json
+C:\Users\me085\OneDrive\Desktop\yuh uh\Assignment1\Assignment1\Server\InMemoryRepositories\bin\Debug\net10.0\InMemoryRepositories.dll
+C:\Users\me085\OneDrive\Desktop\yuh uh\Assignment1\Assignment1\Server\InMemoryRepositories\bin\Debug\net10.0\InMemoryRepositories.pdb
+C:\Users\me085\OneDrive\Desktop\yuh uh\Assignment1\Assignment1\Server\InMemoryRepositories\bin\Debug\net10.0\Entities.dll
+C:\Users\me085\OneDrive\Desktop\yuh uh\Assignment1\Assignment1\Server\InMemoryRepositories\bin\Debug\net10.0\RepositoryContracts.dll
+C:\Users\me085\OneDrive\Desktop\yuh uh\Assignment1\Assignment1\Server\InMemoryRepositories\bin\Debug\net10.0\Entities.pdb
+C:\Users\me085\OneDrive\Desktop\yuh uh\Assignment1\Assignment1\Server\InMemoryRepositories\bin\Debug\net10.0\RepositoryContracts.pdb
+C:\Users\me085\OneDrive\Desktop\yuh uh\Assignment1\Assignment1\Server\InMemoryRepositories\obj\Debug\net10.0\InMemoryRepositories.csproj.AssemblyReference.cache
+C:\Users\me085\OneDrive\Desktop\yuh uh\Assignment1\Assignment1\Server\InMemoryRepositories\obj\Debug\net10.0\InMemoryRepositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\me085\OneDrive\Desktop\yuh uh\Assignment1\Assignment1\Server\InMemoryRepositories\obj\Debug\net10.0\InMemoryRepositories.AssemblyInfoInputs.cache
+C:\Users\me085\OneDrive\Desktop\yuh uh\Assignment1\Assignment1\Server\InMemoryRepositories\obj\Debug\net10.0\InMemoryRepositories.AssemblyInfo.cs
+C:\Users\me085\OneDrive\Desktop\yuh uh\Assignment1\Assignment1\Server\InMemoryRepositories\obj\Debug\net10.0\InMemoryRepositories.csproj.CoreCompileInputs.cache
+C:\Users\me085\OneDrive\Desktop\yuh uh\Assignment1\Assignment1\Server\InMemoryRepositories\obj\Debug\net10.0\InMemoryRepositories.sourcelink.json
+C:\Users\me085\OneDrive\Desktop\yuh uh\Assignment1\Assignment1\Server\InMemoryRepositories\obj\Debug\net10.0\InMemory.C4D1EAE1.Up2Date
+C:\Users\me085\OneDrive\Desktop\yuh uh\Assignment1\Assignment1\Server\InMemoryRepositories\obj\Debug\net10.0\InMemoryRepositories.dll
+C:\Users\me085\OneDrive\Desktop\yuh uh\Assignment1\Assignment1\Server\InMemoryRepositories\obj\Debug\net10.0\refint\InMemoryRepositories.dll
+C:\Users\me085\OneDrive\Desktop\yuh uh\Assignment1\Assignment1\Server\InMemoryRepositories\obj\Debug\net10.0\InMemoryRepositories.pdb
+C:\Users\me085\OneDrive\Desktop\yuh uh\Assignment1\Assignment1\Server\InMemoryRepositories\obj\Debug\net10.0\ref\InMemoryRepositories.dll

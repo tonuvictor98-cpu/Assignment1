@@ -1,0 +1,24 @@
+C:\Users\me085\RiderProjects\Assignment1\Server\Entities\bin\Debug\net10.0\Entities.deps.json
+C:\Users\me085\RiderProjects\Assignment1\Server\Entities\bin\Debug\net10.0\Entities.dll
+C:\Users\me085\RiderProjects\Assignment1\Server\Entities\bin\Debug\net10.0\Entities.pdb
+C:\Users\me085\RiderProjects\Assignment1\Server\Entities\obj\Debug\net10.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\me085\RiderProjects\Assignment1\Server\Entities\obj\Debug\net10.0\Entities.AssemblyInfoInputs.cache
+C:\Users\me085\RiderProjects\Assignment1\Server\Entities\obj\Debug\net10.0\Entities.AssemblyInfo.cs
+C:\Users\me085\RiderProjects\Assignment1\Server\Entities\obj\Debug\net10.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\me085\RiderProjects\Assignment1\Server\Entities\obj\Debug\net10.0\Entities.sourcelink.json
+C:\Users\me085\RiderProjects\Assignment1\Server\Entities\obj\Debug\net10.0\Entities.dll
+C:\Users\me085\RiderProjects\Assignment1\Server\Entities\obj\Debug\net10.0\refint\Entities.dll
+C:\Users\me085\RiderProjects\Assignment1\Server\Entities\obj\Debug\net10.0\Entities.pdb
+C:\Users\me085\RiderProjects\Assignment1\Server\Entities\obj\Debug\net10.0\ref\Entities.dll
+C:\Users\me085\OneDrive\Desktop\yuh uh\Assignment1\Assignment1\Server\Entities\bin\Debug\net10.0\Entities.deps.json
+C:\Users\me085\OneDrive\Desktop\yuh uh\Assignment1\Assignment1\Server\Entities\bin\Debug\net10.0\Entities.dll
+C:\Users\me085\OneDrive\Desktop\yuh uh\Assignment1\Assignment1\Server\Entities\bin\Debug\net10.0\Entities.pdb
+C:\Users\me085\OneDrive\Desktop\yuh uh\Assignment1\Assignment1\Server\Entities\obj\Debug\net10.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\me085\OneDrive\Desktop\yuh uh\Assignment1\Assignment1\Server\Entities\obj\Debug\net10.0\Entities.AssemblyInfoInputs.cache
+C:\Users\me085\OneDrive\Desktop\yuh uh\Assignment1\Assignment1\Server\Entities\obj\Debug\net10.0\Entities.AssemblyInfo.cs
+C:\Users\me085\OneDrive\Desktop\yuh uh\Assignment1\Assignment1\Server\Entities\obj\Debug\net10.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\me085\OneDrive\Desktop\yuh uh\Assignment1\Assignment1\Server\Entities\obj\Debug\net10.0\Entities.sourcelink.json
+C:\Users\me085\OneDrive\Desktop\yuh uh\Assignment1\Assignment1\Server\Entities\obj\Debug\net10.0\Entities.dll
+C:\Users\me085\OneDrive\Desktop\yuh uh\Assignment1\Assignment1\Server\Entities\obj\Debug\net10.0\refint\Entities.dll
+C:\Users\me085\OneDrive\Desktop\yuh uh\Assignment1\Assignment1\Server\Entities\obj\Debug\net10.0\Entities.pdb
+C:\Users\me085\OneDrive\Desktop\yuh uh\Assignment1\Assignment1\Server\Entities\obj\Debug\net10.0\ref\Entities.dll
