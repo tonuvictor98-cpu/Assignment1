@@ -7,6 +7,14 @@ public class PostInMemoryRepository : IPostRepository
 {
     private readonly List<Post> posts = new List<Post>();
 
+    public PostInMemoryRepository()
+    {
+        posts.Add(new Post { Id = 1, Title = "bs 01", Body = "Welcome to assignment 2, a world without rules", UserId = 1 });
+        posts.Add(new Post { Id = 2, Title = "bs 02", Body = "You the new guy huh welcome to a2.", UserId = 2 });
+        posts.Add(new Post { Id = 3, Title = "bs 03", Body = "welcome to dnp kid, if you have dreams consider them gone", UserId = 1 });
+        posts.Add(new Post { Id = 4, Title = "bs 04", Body = "you're in a2 now, my project, my rules, be careful", UserId = 3 });
+    }
+
     public Task<Post> AddAsync(Post post)
     {
         post.Id = posts.Any()
